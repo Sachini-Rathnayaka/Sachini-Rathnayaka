@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sachini-rathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="sachini-rathnayaka" /> </p>
 <div align="center">
-  <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=008000&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Sachini+Rathnayaka;IT+Undergraduate+%7C+University+of+Moratuwa" alt="Typing SVG" />
   </p>
 </div>
